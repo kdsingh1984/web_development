@@ -14,3 +14,15 @@ label {
 input {
     color: bisque;
 }
+
+#signup{
+    color: black;
+    background-color: lightblue;
+}
+
+.tag {
+    color: black;
+    background-color: red;
+    font-size: 10px;
+    font-weight: 500;
+}
