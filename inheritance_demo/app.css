@@ -1,0 +1,44 @@
+body {
+    color: purple;
+}
+
+h1 {
+    color: blue;
+}
+
+section {
+    color: brown;
+    border: 5px solid pink;
+    margin: 20px;
+    border-radius: 5%;
+    border-left-color: chocolate;
+}
+
+button,input {
+    color: inherit;
+}
+
+div {
+    color: black;
+    width: 200px;
+    height: 200px;
+    background-color: aqua;
+    margin: 10px;
+    border-color: black;
+    border-width: 10px;
+    border: 5px solid black;
+    display: inline-block;
+}
+
+#chess {
+    width: 200px;
+    height: 200px;
+    background-color: bisque;
+}
+
+section > div {
+    height: 50%;
+    width: 50%;
+    background-color: blue;
+    margin: 0px;
+}

@@ -15,6 +15,10 @@ input {
     color: bisque;
 }
 
+button:hover {
+    background-color: red;
+}
+
 #signup{
     color: black;
     background-color: lightblue;
